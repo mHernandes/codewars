@@ -20,6 +20,9 @@ decodeMorse('.... . -.--   .--- ..- -.. .')
 #should return "HEY JUDE"
 NOTE: For coding purposes you have to use ASCII characters . and -, not Unicode characters.
 All the test strings would contain valid Morse code, so you may skip checking for errors and exceptions.
+
+link to kata: https://www.codewars.com/kata/54b724efac3d5402db00065e
+
 """
 
 
